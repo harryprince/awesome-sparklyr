@@ -40,6 +40,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [RPresto: DBI-based adapter for Presto for the statistical programming language R](https://github.com/prestodb/RPresto)
 
+
 ## Sparklyr Algorithm
 
 ### Sparklyr Machine Learning Production Pipeline
@@ -76,4 +77,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 ## Sparklyr Slides or Talks
 
 + [rstudio-conf-2018-sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html)
-+ [From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
++ [SPARK+AI SUMMIT 2018: From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
++ [building-spark-ml-pipelines-with-sparklyr](https://www.rstudio.com/resources/videos/building-spark-ml-pipelines-with-sparklyr/)
++ [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
++ [Microsoft RxSpark: Create Spark compute context, connect and disconnect a Spark application](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/rxspark)
