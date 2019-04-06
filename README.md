@@ -10,28 +10,52 @@ Sparklyr is pretty awesome tool for parallel programming.
 
 This repo aims for collecting awesome Sparklyr resources togather.
 
-## Sparklyr Machine Learning Pipeline
+## Sparklyr Family
+
++ [rsparkling: Use H2O Sparkling Water from R (Spark + R + Machine Learning)](https://github.com/h2oai/sparkling-water/tree/master/r)
+
+
+## Sparklyr DB
+
+### Sparklyr Tidy
+
++ [sparklyr.nested: A sparklyr extension for nested data](https://github.com/mitre/sparklyr.nested) ![](https://camo.githubusercontent.com/bee62001eaf4c58d69c524724204929a9190ba9a/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f737061726b6c79722e6e6573746564)
+
+### Sparklyr TiDB
+
++ [tisparkR: R interface for tispark](https://github.com/pingcap/tispark/tree/master/R)
+
+## Sparklyr Streaming
+
+## Sparklyr Algorithm
+
+### Sparklyr Machine Learning Production Pipeline
 
 https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html#33
 
-## Sparklyr Geospatial Data
+### Sparklyr Geospatial Data
 
 + [geospark: bring sf to spark by GeoSpark scala package in production](https://github.com/harryprince/geospark)
++ [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
 
-## Graph Mining
+### Graph Mining
 
 + [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
 
-## Time Series Data
+### Time Series Data
 
-## Deep Learning
++ [sparkts: sparklyr interface to the spark-ts package](https://github.com/nathaneastwood/sparkts)
+
+### Deep Learning
 
 + [sparktf: R interface to Spark TensorFlow Connector](https://github.com/rstudio/sparktf)
 
-## Tree Model
+### Tree Model
 
 + [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
 
 ## Sparklyr Blogs
 
 + [深入对比数据科学工具箱: SparkR vs Sparklyr](https://cosx.org/2018/05/sparkr-vs-sparklyr)
++ [Spark Joy - Saying Konmari to your event logs with grammar of data manipulation](https://etheleon.github.io/articles/spark-joy/)
++ [sparklyr 0.9: Streams and Kubernetes](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/)
