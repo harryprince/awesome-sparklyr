@@ -30,7 +30,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### Sparklyr Tikv
 
-+ [tisparkR: R interface for tispark](https://github.com/pingcap/tispark/tree/master/R)
++ [TiSparkR: R interface for TiSpark](https://github.com/pingcap/tispark/tree/master/R)
 
 ### Impala
 
@@ -44,9 +44,9 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### Sparklyr Machine Learning Production Pipeline
 
-https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html#33
++ [mleap: R Interface to MLeap](https://github.com/rstudio/mleap)
 
-### Sparklyr Geospatial Data
+### Geospatial Data
 
 + [geospark: bring sf to spark by GeoSpark scala package in production](https://github.com/harryprince/geospark)
 + [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
@@ -55,7 +55,7 @@ https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-s
 
 + [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
 
-### Time Series Data
+### Time Series 
 
 + [sparkts: sparklyr interface to the spark-ts package](https://github.com/nathaneastwood/sparkts)
 
@@ -72,3 +72,8 @@ https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-s
 + [深入对比数据科学工具箱: SparkR vs Sparklyr](https://cosx.org/2018/05/sparkr-vs-sparklyr)
 + [Spark Joy - Saying Konmari to your event logs with grammar of data manipulation](https://etheleon.github.io/articles/spark-joy/)
 + [sparklyr 0.9: Streams and Kubernetes](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/)
+
+## Sparklyr Slides or Talks
+
++ [rstudio-conf-2018-sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html)
++ [From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
