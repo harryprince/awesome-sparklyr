@@ -13,3 +13,25 @@ This repo aims for collecting awesome Sparklyr resources togather.
 ## Sparklyr Machine Learning Pipeline
 
 https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html#33
+
+## Sparklyr Geospatial Data
+
++ [geospark: bring sf to spark by GeoSpark scala package in production](https://github.com/harryprince/geospark)
+
+## Graph Mining
+
++ [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
+
+## Time Series Data
+
+## Deep Learning
+
++ [sparktf: R interface to Spark TensorFlow Connector](https://github.com/rstudio/sparktf)
+
+## Tree Model
+
++ [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
+
+## Sparklyr Blogs
+
++ [深入对比数据科学工具箱: SparkR vs Sparklyr](https://cosx.org/2018/05/sparkr-vs-sparklyr)
