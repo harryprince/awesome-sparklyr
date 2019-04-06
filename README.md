@@ -10,22 +10,35 @@ Sparklyr is pretty awesome tool for parallel programming.
 
 This repo aims for collecting awesome Sparklyr resources togather.
 
+## How to Contribute
+
+1. fork this project.
+2. Add your resources by pull request.
+
 ## Sparklyr Family
 
 + [rsparkling: Use H2O Sparkling Water from R (Spark + R + Machine Learning)](https://github.com/h2oai/sparkling-water/tree/master/r)
 
 
-## Sparklyr DB
+## Sparklyr Related Database
 
 ### Sparklyr Tidy
 
 + [sparklyr.nested: A sparklyr extension for nested data](https://github.com/mitre/sparklyr.nested) ![](https://camo.githubusercontent.com/bee62001eaf4c58d69c524724204929a9190ba9a/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f737061726b6c79722e6e6573746564)
 
-### Sparklyr TiDB
+### Sparklyr Streaming
+
+### Sparklyr Tikv
 
 + [tisparkR: R interface for tispark](https://github.com/pingcap/tispark/tree/master/R)
 
-## Sparklyr Streaming
+### Impala
+
++ [implyr: SQL backend to dplyr for Impala](https://github.com/ianmcook/implyr)
+
+### Presto
+
++ [RPresto: DBI-based adapter for Presto for the statistical programming language R](https://github.com/prestodb/RPresto)
 
 ## Sparklyr Algorithm
 
