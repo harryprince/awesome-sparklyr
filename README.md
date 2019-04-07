@@ -32,6 +32,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [TiSparkR: R interface for TiSpark](https://github.com/pingcap/tispark/tree/master/R)
 
+### Big Query
+
++ [sparkbq: Sparklyr extension package to connect to Google BigQuery](https://github.com/miraisolutions/sparkbq)
+
 ### Impala
 
 + [implyr: SQL backend to dplyr for Impala](https://github.com/ianmcook/implyr)
