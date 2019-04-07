@@ -32,6 +32,12 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [sparklyr.nested: A sparklyr extension for nested data](https://github.com/mitre/sparklyr.nested) ![](https://camo.githubusercontent.com/bee62001eaf4c58d69c524724204929a9190ba9a/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f737061726b6c79722e6e6573746564)
 
+### Sparklyr IO
+
+> avro vs parquet: row-oriented vs column-oriented
++ [sparkavro: Load Avro data into Spark with sparklyr](https://github.com/chezou/sparkavro) 
+
+
 ### Sparklyr Streaming
 
 ### Sparklyr Tikv
