@@ -96,6 +96,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [sparklyr 0.6: Distributed R and external sources](https://blog.rstudio.com/2017/07/31/sparklyr-0-6/)
 + [sparklyr 0.5: Livy and dplyr improvements](https://blog.rstudio.com/2017/01/24/sparklyr-0-5/)
 
+### Administration
+
++ [How-to: Automate Your sparklyr Environment with Cloudera Director](https://blog.cloudera.com/blog/2016/12/automating-your-sparklyr-environment-with-cloudera-director/?_ga=1.264069893.826902665.1483652158)
+
 ### Comparison
 
 + [深入对比数据科学工具箱: SparkR vs Sparklyr](https://cosx.org/2018/05/sparkr-vs-sparklyr)
