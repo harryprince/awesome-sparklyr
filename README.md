@@ -97,4 +97,4 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [rstudio-conf-2018-sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html)
 + [SPARK+AI SUMMIT 2018: From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
 + [building-spark-ml-pipelines-with-sparklyr](https://www.rstudio.com/resources/videos/building-spark-ml-pipelines-with-sparklyr/)
-
++ [Sparklyr: An R interface for Apache Spark](https://cdn.oreillystatic.com/en/assets/1/event/193/Sparklyr_%20An%20R%20interface%20for%20Apache%20Spark%20Presentation.pdf)
