@@ -72,11 +72,19 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
 
+## Sparklyr Courses
+
++ [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
+
 ## Sparklyr Blogs
 
 + [深入对比数据科学工具箱: SparkR vs Sparklyr](https://cosx.org/2018/05/sparkr-vs-sparklyr)
 + [Spark Joy - Saying Konmari to your event logs with grammar of data manipulation](https://etheleon.github.io/articles/spark-joy/)
++ [sparklyr 1.0: Apache Arrow, XGBoost, Broom and TFRecords](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/)
 + [sparklyr 0.9: Streams and Kubernetes](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/)
++ [sparklyr 0.8: Production pipelines and graphs](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
++ [sparklyr 0.7: Spark Pipelines and Machine Learning](https://blog.rstudio.com/2018/01/29/sparklyr-0-7/)
++ [sparklyr 0.6: Distributed R and external sources](https://blog.rstudio.com/2017/07/31/sparklyr-0-6/)
 + [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
 + [Microsoft RxSpark: Create Spark compute context, connect and disconnect a Spark application](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/rxspark)
 
