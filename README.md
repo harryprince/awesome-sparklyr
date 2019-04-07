@@ -67,6 +67,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [geospark: bring sf to spark in production](https://github.com/harryprince/geospark)
 + [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
 
+### Text Mining
+
++ [spacyr-sparklyr: Example code of spacyr with sparklyr](https://github.com/chezou/spacyr-sparklyr)
+
 ### Graph Mining
 
 + [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
@@ -82,6 +86,11 @@ This repo aims for collecting awesome Sparklyr resources togather.
 ### Tree Model
 
 + [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
+
+## Spakrlyr Administration
+
++ [mvndeps: Use (previously installed) maven from R to resolve java dependencies](https://github.com/mitre/mvndeps)
++ [clusterconf: Manage Hadoop cluster configurations](https://github.com/mitre/clusterconf)
 
 ## Sparklyr Courses
 
