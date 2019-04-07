@@ -57,9 +57,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ## Sparklyr Algorithm
 
-### Sparklyr Machine Learning Production Pipeline
+### Machine Learning Production Pipeline
 
 + [mleap: R Interface to MLeap](https://github.com/rstudio/mleap)
++ [mlflow: R interface for MLflow](https://github.com/mlflow/mlflow/tree/master/mlflow/R/mlflow)
 
 ### Geospatial Data
 
