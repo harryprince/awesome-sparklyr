@@ -85,6 +85,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [sparklyr 0.8: Production pipelines and graphs](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
 + [sparklyr 0.7: Spark Pipelines and Machine Learning](https://blog.rstudio.com/2018/01/29/sparklyr-0-7/)
 + [sparklyr 0.6: Distributed R and external sources](https://blog.rstudio.com/2017/07/31/sparklyr-0-6/)
++ [sparklyr 0.5: Livy and dplyr improvements](https://blog.rstudio.com/2017/01/24/sparklyr-0-5/)
 + [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
 + [Microsoft RxSpark: Create Spark compute context, connect and disconnect a Spark application](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/rxspark)
 
