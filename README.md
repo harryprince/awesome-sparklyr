@@ -89,6 +89,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ## Spakrlyr Administration
 
++ [cloudera-parcel: customized cloudera-parcel](https://github.com/chezou/cloudera-parcel)
 + [mvndeps: Use (previously installed) maven from R to resolve java dependencies](https://github.com/mitre/mvndeps)
 + [clusterconf: Manage Hadoop cluster configurations](https://github.com/mitre/clusterconf)
 
@@ -138,6 +139,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ## Sparklyr Slides or Talks
 
++ [Spark+R 大数据分析入门](https://github.com/lix90/Rnotes/raw/master/Spark%2BR_bigdata_intro.pdf)
 + [rstudio-conf-2018-sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html)
 + [SPARK+AI SUMMIT 2018: From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
 + [rstudio: building-spark-ml-pipelines-with-sparklyr](https://www.rstudio.com/resources/videos/building-spark-ml-pipelines-with-sparklyr/)
