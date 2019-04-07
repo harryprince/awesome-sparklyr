@@ -87,9 +87,15 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
 
++ [RStudio Webinars: Part 1 - Introducing an R interface for Apache Spark](https://resources.rstudio.com/webinars/introducing-an-r-interface-for-apache-spark)
++ [RStudio Webinars: Part 2 - Extending Spark using sparklyr](https://resources.rstudio.com/webinars/extending-spark-using-sparklyr)
++ [RStudio Webinars: Part 3 - Advanced features of sparklyr](https://resources.rstudio.com/webinars/advanced-features-of-sparklyr)
++ [RStudio Webinars: Part 4 - Understanding sparklyr deployment modes](https://resources.rstudio.com/webinars/understanding-sparklyr-deployment-modes)
+
 ## Sparklyr Blogs
 
 ### RStudio Official Blog
+
 + [sparklyr 1.0: Apache Arrow, XGBoost, Broom and TFRecords](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/)
 + [sparklyr 0.9: Streams and Kubernetes](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/)
 + [sparklyr 0.8: Production pipelines and graphs](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
