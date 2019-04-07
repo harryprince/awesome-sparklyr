@@ -105,6 +105,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [Online retail data analysis using R, tidyverse, sparklyr and Spark](https://rstudio-pubs-static.s3.amazonaws.com/430563_d38c12b53d724fa6852949b1f3e4ffbf.html)
 + [Spark Joy - Saying Konmari to your event logs with grammar of data manipulation](https://etheleon.github.io/articles/spark-joy/)
 + [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
++ [Association rules using FPGrowth in Spark MLlib through SparklyR](https://longhowlam.wordpress.com/2017/11/23/association-rules-using-fpgrowth-in-spark-mllib-through-sparklyr/)
 
 ### Introduction
 
