@@ -38,6 +38,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [TiSparkR: R interface for TiSpark](https://github.com/pingcap/tispark/tree/master/R)
 
+### Redshift
+
++ [sparkredshift: An R package to read data from Amazon Redshift into Spark DataFrames](https://github.com/Emaasit/sparkredshift)
+
 ### Big Query
 
 + [sparkbq: Sparklyr extension package to connect to Google BigQuery](https://github.com/miraisolutions/sparkbq)
@@ -97,6 +101,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [sparklyr RStudio 활용](https://statkclee.github.io/bigdata/ds-sparklyr.html)
 + [S3のデータをRStudioとsparklyrで分析する](https://blog.cloudera.co.jp/rspark-with-cloudera-director-ee9ac5826f19)
 + [RStudio + sparklyr on EMRでスケーラブル機械学習](http://smrmkt.hatenablog.jp/entry/2017/01/25/205608)
++ [Online retail data analysis using R, tidyverse, sparklyr and Spark](https://rstudio-pubs-static.s3.amazonaws.com/430563_d38c12b53d724fa6852949b1f3e4ffbf.html)
 
 ## Sparklyr Slides or Talks
 
