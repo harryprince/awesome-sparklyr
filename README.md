@@ -34,7 +34,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### Sparklyr IO
 
-> avro vs parquet: row-oriented vs column-oriented
+> avro vs parquet: row-oriented vs column-oriented, see more introduction in [stackoverflow](https://stackoverflow.com/questions/28957291/avro-vs-parquet)
 + [sparkavro: Load Avro data into Spark with sparklyr](https://github.com/chezou/sparkavro) 
 
 
