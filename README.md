@@ -21,8 +21,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ## Sparklyr Cheatsheet
 
-+ [Data Science in Spark with Sparklyr::CHEAT SHEET](https://ugoproto.github.io/ugo_r_doc/sparklyr.pdf)
-+ [Spark数据科学之 sparklyr 速查表](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
++ [en: Data Science in Spark with Sparklyr::CHEAT SHEET](https://ugoproto.github.io/ugo_r_doc/sparklyr.pdf)
++ [zh: Spark数据科学之 sparklyr 速查表](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
++ [de: Data Science in Spark mit sparklyr Schummelzettel](https://github.com/rstudio/cheatsheets/raw/master/translations/german/sparklyr-cheatsheet_de.pdf)
+
 
 ## Sparklyr Related Database
 
@@ -92,6 +94,9 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [sparklyr 0.5: Livy and dplyr improvements](https://blog.rstudio.com/2017/01/24/sparklyr-0-5/)
 + [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
 + [Microsoft RxSpark: Create Spark compute context, connect and disconnect a Spark application](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/rxspark)
++ [sparklyr RStudio 활용](https://statkclee.github.io/bigdata/ds-sparklyr.html)
++ [S3のデータをRStudioとsparklyrで分析する](https://blog.cloudera.co.jp/rspark-with-cloudera-director-ee9ac5826f19)
++ [RStudio + sparklyr on EMRでスケーラブル機械学習](http://smrmkt.hatenablog.jp/entry/2017/01/25/205608)
 
 ## Sparklyr Slides or Talks
 
@@ -99,3 +104,4 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [SPARK+AI SUMMIT 2018: From Prototyping to Deployment at Scale with R and sparklyr Kevin Kuo (RStudio)](https://vimeo.com/274395988)
 + [building-spark-ml-pipelines-with-sparklyr](https://www.rstudio.com/resources/videos/building-spark-ml-pipelines-with-sparklyr/)
 + [Sparklyr: An R interface for Apache Spark](https://cdn.oreillystatic.com/en/assets/1/event/193/Sparklyr_%20An%20R%20interface%20for%20Apache%20Spark%20Presentation.pdf)
++ [Marcin Kosiński, sparklyr: R interface to Apache Spark machine learning algorithms with dplyr back-end](http://r-addict.com/DataScienceWarsaw25/show/#/)
