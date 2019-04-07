@@ -124,3 +124,4 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [DataScienceWarsaw25: sparklyr: R interface to Apache Spark machine learning algorithms with dplyr back-end](http://r-addict.com/DataScienceWarsaw25/show/#/)
 + [Tensorflow and Sparklyr: Scaling Deep Learning and R to the Big Data ecosystem [Italian]](https://www.youtube.com/watch?v=VnaCn9qr0PU)
 + [Sparklyr: Big Data enabler for R users - Serena Signorelli, ICTEAM](https://www.slideshare.net/ds_mi/sparklyr-big-data-enabler-for-r-users-serena-signorelli-icteam)
++ [eRum 2018: Exploiting Spark for high-performance scalable data engineering and data-science on Microsoft Azure ](https://fieldy6961public.blob.core.windows.net/erum2018/erum2018whichSpark.pdf)
