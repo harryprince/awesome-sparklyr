@@ -19,6 +19,9 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [rsparkling: Use H2O Sparkling Water from R (Spark + R + Machine Learning)](https://github.com/h2oai/sparkling-water/tree/master/r)
 
+## Sparklyr Cheatsheet
+
++ [Data Science in Spark with Sparklyr::CHEAT SHEET](https://ugoproto.github.io/ugo_r_doc/sparklyr.pdf)
 
 ## Sparklyr Related Database
 
