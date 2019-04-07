@@ -57,7 +57,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### Geospatial Data
 
-+ [geospark: bring sf to spark by GeoSpark scala package in production](https://github.com/harryprince/geospark)
++ [geospark: bring sf to spark in production](https://github.com/harryprince/geospark)
 + [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
 
 ### Graph Mining
