@@ -22,6 +22,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 ## Sparklyr Cheatsheet
 
 + [Data Science in Spark with Sparklyr::CHEAT SHEET](https://ugoproto.github.io/ugo_r_doc/sparklyr.pdf)
++ [Sparklyr Cheatsheet Chinese Version](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
 
 ## Sparklyr Related Database
 
