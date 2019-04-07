@@ -34,7 +34,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### Sparklyr Storage Engine
 
-> avro vs parquet: row-oriented vs column-oriented, see more introduction in [stackoverflow](https://stackoverflow.com/questions/28957291/avro-vs-parquet)
+> avro vs parquet: row-oriented vs column-oriented, see more introduction in [stackoverflow](https://stackoverflow.com/questions/28957291/avro-vs-parquet) and [cern blog](https://db-blog.web.cern.ch/blog/zbigniew-baranowski/2017-01-performance-comparison-different-file-formats-and-storage-engines)
 + [sparkavro: Load Avro data into Spark with sparklyr](https://github.com/chezou/sparkavro) 
 
 
