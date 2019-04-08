@@ -108,6 +108,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [mvndeps: Use (previously installed) maven from R to resolve java dependencies](https://github.com/mitre/mvndeps)
 + [clusterconf: Manage Hadoop cluster configurations](https://github.com/mitre/clusterconf)
 
+## Sparklyr Docker
+
++ [rspark: This repo is for building Docker containers for RStudio, PostgreSQL, Hadoop, Spark, etc.](https://github.com/jharner/rspark)
+
 ## Sparklyr Courses
 
 + [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
