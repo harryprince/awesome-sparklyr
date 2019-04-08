@@ -148,6 +148,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [How to Distribute your R code with sparklyr and Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/09/how-to-distribute-your-r-code-with-sparklyr-and-cdsw/)
 + [Association rules using FPGrowth in Spark MLlib through SparklyR](https://longhowlam.wordpress.com/2017/11/23/association-rules-using-fpgrowth-in-spark-mllib-through-sparklyr/)
 + [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](https://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html)
++ [SDSS2018workflows: Presentation slides for Symposium on Data Science and Statistics held May 16--19, Reston, VA](https://github.com/jharner/SDSS2018workflows)
 
 ### Introduction
 
