@@ -57,6 +57,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [sparkbq: Sparklyr extension package to connect to Google BigQuery](https://github.com/miraisolutions/sparkbq)
 
+### Pivotal
+
++ [PivotalR: An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib](https://github.com/pivotalsoftware/PivotalR)
+
 ### Impala
 
 + [implyr: SQL backend to dplyr for Impala](https://github.com/ianmcook/implyr)
