@@ -15,6 +15,11 @@ This repo aims for collecting awesome Sparklyr resources togather.
 1. fork this project.
 2. Add your resources by pull request.
 
+## Community
+
++ [RStudio Forum](https://community.rstudio.com/)
++ [![](https://camo.githubusercontent.com/62773cf061398aeb23950eb3e440115a687d67d2/68747470733a2f2f6261646765732e6769747465722e696d2f7273747564696f2f737061726b6c79722e737667)](https://gitter.im/rstudio/sparklyr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Sparklyr Family
 
 + [rsparkling: Use H2O Sparkling Water from R (Spark + R + Machine Learning)](https://github.com/h2oai/sparkling-water/tree/master/r)
