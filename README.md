@@ -30,8 +30,39 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [zh: Spark数据科学之 sparklyr 速查表](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
 + [de: Data Science in Spark mit sparklyr Schummelzettel](https://github.com/rstudio/cheatsheets/raw/master/translations/german/sparklyr-cheatsheet_de.pdf)
 
+## Sparklyr Analysis Tools
 
-## Sparklyr Related Database
+### Machine Learning Production Pipeline
+
++ [mleap: R Interface to MLeap](https://github.com/rstudio/mleap)
++ [mlflow: R interface for MLflow](https://github.com/mlflow/mlflow/tree/master/mlflow/R/mlflow)
+
+### Geospatial Data
+
++ [geospark: bring sf to spark in production](https://github.com/harryprince/geospark)
++ [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
+
+### Text Mining
+
++ [spacyr-sparklyr: Example code of spacyr with sparklyr](https://github.com/chezou/spacyr-sparklyr)
+
+### Graph Mining
+
++ [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
+
+### Time Series 
+
++ [sparkts: sparklyr interface to the spark-ts package](https://github.com/nathaneastwood/sparkts)
+
+### Deep Learning
+
++ [sparktf: R interface to Spark TensorFlow Connector](https://github.com/rstudio/sparktf)
+
+### Tree Model
+
++ [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
+
+## Sparklyr Infrastructure
 
 ### Sparklyr Tidy
 
@@ -69,38 +100,6 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [RPresto: DBI-based adapter for Presto for the statistical programming language R](https://github.com/prestodb/RPresto)
 
-
-## Sparklyr Algorithm
-
-### Machine Learning Production Pipeline
-
-+ [mleap: R Interface to MLeap](https://github.com/rstudio/mleap)
-+ [mlflow: R interface for MLflow](https://github.com/mlflow/mlflow/tree/master/mlflow/R/mlflow)
-
-### Geospatial Data
-
-+ [geospark: bring sf to spark in production](https://github.com/harryprince/geospark)
-+ [sparkgeo: Sparklyr extension package providing geospatial analytics capabilities](https://github.com/miraisolutions/sparkgeo)
-
-### Text Mining
-
-+ [spacyr-sparklyr: Example code of spacyr with sparklyr](https://github.com/chezou/spacyr-sparklyr)
-
-### Graph Mining
-
-+ [graphframes: R Interface for GraphFrames](https://github.com/rstudio/graphframes)
-
-### Time Series 
-
-+ [sparkts: sparklyr interface to the spark-ts package](https://github.com/nathaneastwood/sparkts)
-
-### Deep Learning
-
-+ [sparktf: R interface to Spark TensorFlow Connector](https://github.com/rstudio/sparktf)
-
-### Tree Model
-
-+ [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
 
 ## Spakrlyr Administration
 
