@@ -6,7 +6,7 @@
 
 ## Goal
 
-Sparklyr is pretty awesome tool for parallel programming.
+Sparklyr is a pretty awesome tool for parallel programming.
 
 This repo aims for collecting awesome Sparklyr resources togather.
 
