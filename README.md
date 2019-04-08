@@ -112,15 +112,16 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [rspark: This repo is for building Docker containers for RStudio, PostgreSQL, Hadoop, Spark, etc.](https://github.com/jharner/rspark)
 
-## Sparklyr Courses
+## Sparklyr Courses and Tutorials
 
-+ [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
-
++ [**rstudio: bigdataclass**](https://github.com/rstudio/bigdataclass)
 + [RStudio Webinars: Part 1 - Introducing an R interface for Apache Spark](https://resources.rstudio.com/webinars/introducing-an-r-interface-for-apache-spark)
 + [RStudio Webinars: Part 2 - Extending Spark using sparklyr](https://resources.rstudio.com/webinars/extending-spark-using-sparklyr)
 + [RStudio Webinars: Part 3 - Advanced features of sparklyr](https://resources.rstudio.com/webinars/advanced-features-of-sparklyr)
 + [RStudio Webinars: Part 4 - Understanding sparklyr deployment modes](https://resources.rstudio.com/webinars/understanding-sparklyr-deployment-modes)
 + [Microsoft Azure: R and Microsoft R Workflows for Data Science](https://github.com/Azure/LearnAnalytics-mr4ds)
++ [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
++ [rspark-tutorial: Tutorial for learning rspark](https://github.com/jharner/rspark-tutorial)
 
 ## Sparklyr Blogs
 
