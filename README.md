@@ -116,6 +116,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [RStudio Webinars: Part 2 - Extending Spark using sparklyr](https://resources.rstudio.com/webinars/extending-spark-using-sparklyr)
 + [RStudio Webinars: Part 3 - Advanced features of sparklyr](https://resources.rstudio.com/webinars/advanced-features-of-sparklyr)
 + [RStudio Webinars: Part 4 - Understanding sparklyr deployment modes](https://resources.rstudio.com/webinars/understanding-sparklyr-deployment-modes)
++ [Microsoft Azure: R and Microsoft R Workflows for Data Science](https://github.com/Azure/LearnAnalytics-mr4ds)
 
 ## Sparklyr Blogs
 
