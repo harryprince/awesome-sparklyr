@@ -30,6 +30,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [zh: Spark数据科学之 sparklyr 速查表](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
 + [de: Data Science in Spark mit sparklyr Schummelzettel](https://github.com/rstudio/cheatsheets/raw/master/translations/german/sparklyr-cheatsheet_de.pdf)
 
+## Sparklyr Book
+
++ [The R in Spark: Learning Apache Spark with R](https://therinspark.com/intro.html)
+
 ## Sparklyr Analysis Tools
 
 ### Machine Learning Production Pipeline
