@@ -32,7 +32,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ## Sparklyr Book
 
-+ [The R in Spark: Learning Apache Spark with R](https://therinspark.com/intro.html)
++ [**The R in Spark: Learning Apache Spark with R**](https://therinspark.com/intro.html)
 
 ## Sparklyr Analysis Tools
 
