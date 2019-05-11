@@ -21,7 +21,7 @@ thing_tbl %>%
 
 ```
 
-https://github.com/rstudio/sparklyr/issues/1051
+>https://github.com/rstudio/sparklyr/issues/1051
 
 * get **datediff**
 
@@ -29,7 +29,7 @@ https://github.com/rstudio/sparklyr/issues/1051
 mutate(diff = datediff(end, start) 
 ```
 
-https://github.com/rstudio/sparklyr/issues/231
+>https://github.com/rstudio/sparklyr/issues/231
 
 * get **pivot table** like **tidyr::spread**
 
@@ -50,3 +50,4 @@ thing_tbl <- copy_to(sc, thing  %>% mutate(is_valid = round(runif(14),0)))
  }) %>%
   select(row_num,cnt_invalid = `0.0`,cnt_valid = `1.0`)
   ```
+>https://stackoverflow.com/questions/44619000/what-aggregation-functions-can-be-used-with-sdf-pivot-in-sparklyr
