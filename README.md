@@ -163,7 +163,8 @@ This repo aims for collecting awesome Sparklyr resources togather.
 + [RSparkling: The Best of R + H2O + Spark](https://dzone.com/articles/rsparkling-gt-the-best-of-r-h2o-spark)
 
 ## Sparklyr Slides or Talks
- 
+
++ [SPARK+AI SUMMIT 2019: Running R at Scale with Apache Arrow on Spark](https://databricks.com/session/running-r-at-scale-with-apache-arrow-on-spark)
 + [R y Spark para la Ciencia de Datos](https://github.com/edgararuiz/ConectaR/blob/master/conectar-r-spark.pdf)
 + [Spark+R 大数据分析入门](https://github.com/lix90/Rnotes/raw/master/Spark%2BR_bigdata_intro.pdf)
 + [rstudio-conf-2018-sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html)
