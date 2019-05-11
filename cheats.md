@@ -1,5 +1,5 @@
 
-* get **first/last** value over a group
+* get **first/last** value over a group like **dplyr**
 
 ```
 library(dplyr)
@@ -30,3 +30,23 @@ mutate(diff = datediff(end, start)
 ```
 
 https://github.com/rstudio/sparklyr/issues/231
+
+* get **pivot table** like **tidyr::spread**
+
+```
+thing_tbl <- copy_to(sc, thing  %>% mutate(is_valid = round(runif(14),0)))
+
+ thing_tbl %>% 
+    select(row_num, is_valid,cnt) %>% 
+  sdf_pivot(formula = row_num ~ is_valid,fun.aggregate = function(gdf) {
+  expr <- invoke_static(
+          sc,
+          "org.apache.spark.sql.functions",
+          "expr",
+          "sum(values)"
+      )
+
+   gdf %>% invoke("agg", expr, list())
+ }) %>%
+  select(row_num,cnt_invalid = `0.0`,cnt_valid = `1.0`)
+  ```
