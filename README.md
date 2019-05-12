@@ -66,6 +66,10 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 + [sparkxgb: R interface for XGBoost on Spark](https://github.com/rstudio/sparkxgb)
 
+### Visulization
+
++ [dbplot: Simplifies plotting of database and sparklyr data](https://github.com/edgararuiz/dbplot)
+
 ## Sparklyr Infrastructure
 
 ### Sparklyr Tidy
