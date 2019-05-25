@@ -1,3 +1,25 @@
+* get **split** value like **strsplit**
+
+```
+pattern <- "^(.*)-(.*)$"
+
+df %>% 
+   mutate(
+     C = regexp_extract(A, pattern, 1),
+     D = regexp_extract(A, pattern, 2)
+   )
+```
+
+```
+# Source: spark<?> [?? x 4]
+     Id A     C     D    
+  <dbl> <chr> <chr> <chr>
+1     1 A-B   A     B    
+2     2 A-C   A     C    
+3     3 A-D   A     D    
+```
+
+> https://stackoverflow.com/questions/54522707/sparklyr-split-string-to-string
 
 * get **first/last** value over a group like **dplyr**
 
