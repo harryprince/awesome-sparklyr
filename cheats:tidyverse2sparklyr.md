@@ -73,3 +73,30 @@ thing_tbl <- copy_to(sc, thing  %>% mutate(is_valid = round(runif(14),0)))
   select(row_num,cnt_invalid = `0.0`,cnt_valid = `1.0`)
   ```
 >https://stackoverflow.com/questions/44619000/what-aggregation-functions-can-be-used-with-sdf-pivot-in-sparklyr
+
+* get **word2vec** vocabulary dictionary
+
+```
+VECTOR_SIZE = 3
+
+sentence_df <- data.frame(
+    sentence = c("Hi I heard about Spark",
+                 "I wish Java could use case classes",
+                 "Logistic regression models are neat"))
+  
+sentence_tbl <- sdf_copy_to(sc, sentence_df, overwrite = TRUE)
+ 
+tokenized_tbl <- ft_tokenizer(sentence_tbl, "sentence", "words") %>%
+    sdf_register("tokenized")
+
+ model <- ft_word2vec(sc, "words", "result",
+                      vector_size= VECTOR_SIZE, min_count = 0) %>%
+    ml_fit(tokenized_tbl)
+  
+ 
+word_vector_tbl <- model$vectors %>% 
+     sparklyr::sdf_separate_column(column = "vector",
+                                   into = paste0("f",1:VECTOR_SIZE)) %>% select(-vector)
+                                   
+word_vector_tbl %>% head()
+```
