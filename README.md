@@ -134,6 +134,7 @@ This repo aims for collecting awesome Sparklyr resources togather.
 
 ### RStudio Official Blog
 
++ [sparklyr 1.1: Foundations, Books, Lakes and Barriers](https://blog.rstudio.com/2020/01/29/sparklyr-1-1/)
 + [sparklyr 1.0: Apache Arrow, XGBoost, Broom and TFRecords](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/)
 + [sparklyr 0.9: Streams and Kubernetes](https://blog.rstudio.com/2018/10/01/sparklyr-0-9/)
 + [sparklyr 0.8: Production pipelines and graphs](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
